@@ -1,6 +1,6 @@
 ### Bienvenue ! Moi c'est Julien - aka [Vaggarath][website] 👋
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](http://www.vag.ovh)
+[![Website](https://img.shields.io/website?label=vag.ovh&style=for-the-badge&url=https://vag.ovh)](http://www.vag.ovh)
 
 ## Je suis développeur, bénévole, traducteur et formateur à mes heures perdues !
 

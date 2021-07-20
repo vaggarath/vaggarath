@@ -12,7 +12,7 @@
 
 ### Ma playlist (non je n'aime pas spotify et deezer ! 😁) 🎧
 
-[<img src="https://i.pinimg.com/originals/09/f4/72/09f4726125ab5fa8cbcf754b9ba07e7c.jpg" alt="Ma 'working playlist'" width="350" />](https://www.youtube.com/playlist?list=PLFu3l5FLx51NvxRAo9w9YpUXkp2tyfl0a)
+[<img align="center" src="https://i.pinimg.com/originals/09/f4/72/09f4726125ab5fa8cbcf754b9ba07e7c.jpg" alt="Ma 'working playlist'" width="125" />](https://www.youtube.com/playlist?list=PLFu3l5FLx51NvxRAo9w9YpUXkp2tyfl0a)
 
 ### Me contacter :
 

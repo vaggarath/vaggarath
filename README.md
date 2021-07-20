@@ -46,7 +46,7 @@
 
 <details>
     <summary>Mon avancée sur Root Me</summary>
-    [<img align="center" alt="rootme" src="./root.png" />](rootme)
+    <img align="center" alt="rootme" src="./root.png" />
 </details>
 
 

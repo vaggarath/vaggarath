@@ -1,18 +1,14 @@
-### Bienvenue ! Moi c'est Julien - aka [Vaggarath][website] 👋
+### Bienvenue ! Moi c'est [Vaggarath][website] 👋
 
 [![Website](https://img.shields.io/website?label=vag.ovh&style=for-the-badge&url=https://vag.ovh)](http://www.vag.ovh)
 
 ## Je suis développeur, bénévole, traducteur et formateur à mes heures perdues !
 
 - 🔭 Mon folio est disponible ici : [Folio][website]!
-- 🌱 J'apprends et découvre constamment 🤣
+- 🌱 J'apprends et découvre constamment
 - 👯 J'espère bientôt pouvoir collaborer avec d'autres développeurs pour aider mais aussi échanger et apprendre
 - 🥅 Je m'intéresse beaucoup à la sécurité et aime apprendre et relever des défis sur RootMe : [Profil][rootme]
 - ⚡ Fun fact : Je suis passionné de lecture et fais de la traduction, (scanlation et fansub) depuis la fin des années 90.
-
-### Ma playlist (non je n'aime pas spotify et deezer ! 😁) 🎧
-
-[<img align="center" src="https://i.pinimg.com/originals/09/f4/72/09f4726125ab5fa8cbcf754b9ba07e7c.jpg" alt="Ma 'working playlist'" width="125" />](https://www.youtube.com/playlist?list=PLFu3l5FLx51NvxRAo9w9YpUXkp2tyfl0a)
 
 ### Me contacter :
 
